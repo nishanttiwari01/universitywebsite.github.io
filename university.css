@@ -1,0 +1,92 @@
+#home img{
+    height: 40px;
+}
+#home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#navbar{
+  margin: 10px 270px;
+    padding: 2px 2px;
+    display: flex;
+}
+#navbar a{
+  text-decoration: none;
+  margin: 2px 25px;
+  color: white;
+}
+#navbar a:hover{
+  color:red;
+}
+#int .iit{
+  color: blue;
+}
+#univ{
+  height: 30px;
+  width: 94%;
+  background-color: black;
+  display: flex;
+  margin: 10px 33px;
+}
+#univ a{
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  color: white;
+}
+#univ a:hover{
+  color: red;
+}
+#univsect{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 94%;
+  margin: 8px 33px;
+  background-color: beige;
+}
+.container{
+  height: 390px;
+  width: 250px;
+  border: 2px solid red;
+  margin: 10px 26px;
+  background-color: wheat;
+}
+.container img{
+  height: 150px;
+  width: 250px;
+ 
+}
+.container span{
+  color: blue;
+}
+.container .dead{
+  color: red;
+}
+.container .ap{
+   height: 30px;
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   text-decoration: none;
+}
+.container h2{
+  text-align: center;
+}
+.ap:hover{
+  color: red;
+}
+
+

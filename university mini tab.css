@@ -1,0 +1,43 @@
+#home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+}
+#navbar{
+    margin: 10px 100px;
+      padding: 2px 2px;
+      display: flex;
+  }
+  #navbar a{
+    text-decoration: none;
+    margin: 2px 25px;
+    color: white;
+  }
+  #univ{
+    margin: 10px 23px;
+  }
+
+  #univsect{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    width: 94%;
+    margin: 8px 23px;
+    background-color: beige;
+  }
+  .container{
+    height: 390px;
+    width: 85%;
+    border: 2px solid red;
+    margin: 10px 13px;
+    background-color: wheat;
+  }
+  .container img{
+    display: block;
+    width: 280px;
+    margin: auto;
+  }

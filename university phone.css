@@ -1,0 +1,42 @@
+#univ{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#home{
+    height: 200px;
+}
+#navbar a{
+     font-size: 15px;
+     margin: 10px 13px;
+     padding: 1px 1px;
+}
+#navbar{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 10px;
+    padding: 1px 1px;
+    
+}
+#univ{
+    margin: 10px 8px;
+    padding: 2px 0px;
+   
+}
+#univ a{
+    margin: 1px 20px;
+    font-size: 15px;
+}
+#univsect{
+    margin: 8px 8px;
+   
+}
+.container img{
+    height: 130px;
+    width: 162px;
+}
+.container{
+    height: 400px;
+}
